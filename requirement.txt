@@ -1,0 +1,8 @@
+Pillow
+torch=1.11.0+cu113
+torchvision=0.12.0+cu113
+opencv-python-headless
+numpy
+timm=0.4.9
+transformers=4.19.2
+deepspeed=0.6.1

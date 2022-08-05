@@ -1,0 +1,12 @@
+test_file: 'data/test'
+
+bert_config: 'configs/config_albef.json'
+
+image_res: 224
+vision_width: 768
+embed_dim: 256
+temp: 0.07
+mlm_probability: 0.15
+queue_size: 81920
+momentum: 0.995
+alpha: 0.4
