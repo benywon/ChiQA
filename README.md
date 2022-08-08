@@ -1,6 +1,6 @@
 [**中文说明**](./README.zh.md) | [**English**](./README.md)
 
-This repository contains the data, baseline implementations for our CIKM 2022 long paper[ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding](https://bingning.wang/blog/Post/File/edit/FileDir/File/sample-sigconf.pdf).
+This repository contains the data, baseline implementations for our CIKM 2022 long paper [ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding](https://arxiv.org/pdf/2208.03030.pdf).
 
 ## prerequisite for running the baselines
 `pip install -r requirement.txt`
