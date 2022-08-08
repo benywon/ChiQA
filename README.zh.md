@@ -1,5 +1,23 @@
 # ChiQA
-ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding
+CIKM2022长文论文 [ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding](https://arxiv.org/pdf/2208.03030.pdf)
+
+## 关于ChiQA
+### 背景
+随着互联网的发展，用户在搜索引擎中越来越不满足于简单的文本结果，以图片、视频等为载体的“新问答”越来越受到关注。事实上，在问答系统中，很多答案的结果都可以用一个图片来简单的回答。如下图：
+<p align="center">
+    <br>
+    <img src="medias/ir.example.png" width="360"/>
+    <br>
+</p>
+
+### ChiQA
+图片问答越来越重要，但是传统的VQA（visual question answering）数据很难应用在实际场景中。原因有三：
+
++ 传统数据的问题是人工生成的，会存在标注人员的主观或者问法的偏置
++ 传统的数据集往往是image-dependent的，即问题是看了图之后才被问的，例如：“这个图上坐在长椅上的人穿的什么颜色衣服”。
++ 传统的VQA数据重点在entity上，往往存在一定的领域单一化。
+
+针对上面问题，我们提出了一个ChiQA数据集，包含有20万中文query-image对。我们人工标注了每条数据的相关性。
 
 ## 运行依赖
 安装运行依赖命令  
