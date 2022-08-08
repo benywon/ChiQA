@@ -1,5 +1,5 @@
 # ChiQA
-CIKM2022长文论文 [ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding](https://arxiv.org/pdf/2208.03030.pdf)
+CIKM2022长文论文 [ChiQA: A Large Scale Image-based Real-World Question Answering Dataset for Multi-Modal Understanding](https://arxiv.org/abs/2208.03030)
 
 ## 关于ChiQA
 ### 背景
